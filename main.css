@@ -1,0 +1,21 @@
+.tarjeta1 {
+    width: 300px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    filter: drop-shadow(10px 0px 5px rgba(156, 2, 16, 0.933));
+    background-attachment: fixed; 
+    background-color: rgb(50, 53, 52);
+    font-weight: 400; 
+    font-style: normal;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.imagen-cuadro {
+    width: 100%;
+    height: auto;
+    border: 5px solid #fff; /* Borde blanco */
+    border-radius: 10px; /* Esquinas redondeadas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra */
+}
